@@ -2,9 +2,12 @@ this is a test file for git
 
 this is a new line to track the changes in git 
 
+<<<<<<< HEAD
 this is the third change to this file, lets see the difference in the version control 
 when we input the command git status 
 
 this test is to use git commit without the -m to access the commit edit
+=======
+>>>>>>> parent of 90c0db6 (This is the 3rd Commit)
 
 
